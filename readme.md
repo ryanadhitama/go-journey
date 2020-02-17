@@ -13,4 +13,6 @@ Learn golang from (https://dasarpemrogramangolang.novalagung.com/)
 - [x] Map
 - [x] Exec
 - [x] File
+- [x] Web
+- [x] URL Parsing
 
